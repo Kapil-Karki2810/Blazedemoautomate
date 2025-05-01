@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-03T11:38:52 IST" name="Suite" finished-at="2025-04-03T11:38:57 IST" duration-ms="4515">
+    <groups>
+    </groups>
+    <test started-at="2025-04-03T11:38:52 IST" name="Test" finished-at="2025-04-03T11:38:57 IST" duration-ms="4515">
+      <class name="practiceTestng.Testngxml">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:practiceTestng.Testngxml@6743e411]" started-at="2025-04-03T11:38:52 IST" name="beforesuite" finished-at="2025-04-03T11:38:52 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+      </class> <!-- practiceTestng.Testngxml -->
+      <class name="practiceTestng.Testngannotations">
+        <test-method is-config="true" signature="testng()[pri:0, instance:practiceTestng.Testngannotations@3fc2959f]" started-at="2025-04-03T11:38:52 IST" name="testng" finished-at="2025-04-03T11:38:56 IST" duration-ms="4041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng -->
+        <test-method signature="numberoflinks()[pri:0, instance:practiceTestng.Testngannotations@3fc2959f]" started-at="2025-04-03T11:38:57 IST" name="numberoflinks" finished-at="2025-04-03T11:38:57 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberoflinks -->
+        <test-method is-config="true" signature="closewindow()[pri:0, instance:practiceTestng.Testngannotations@3fc2959f]" started-at="2025-04-03T11:38:57 IST" name="closewindow" finished-at="2025-04-03T11:38:57 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- practiceTestng.Testngannotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
