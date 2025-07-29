@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonWebsite.kapil.Signin">
+      <class name="blazedemo.testscript.Booktheflight">
         <methods>
-          <include name="signin"/>
+          <include name="destinationdetails"/>
         </methods>
-      </class> <!-- AmazonWebsite.kapil.Signin -->
+      </class> <!-- blazedemo.testscript.Booktheflight -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -32,5 +32,10 @@ public class Homepage {
 	    destntcity.selectByValue(Destcity);
 	    FindFlights.click();
 	}
+	
+	public void Goto()
+	{
+		driver.get("https://blazedemo.com/");
+	}
 
 }
